@@ -1,9 +1,9 @@
 {
-  "short_name": "Holy Chatter",
-  "name": "Holy Chatter Web App",
+  "short_name": "Holy-Chatter",
+  "name": "Holy Chatter",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "logo_holy_chatter.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
