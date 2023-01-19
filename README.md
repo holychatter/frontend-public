@@ -1,2 +1,2 @@
 # frontend-public
-Public directory of the frontend
+Public directory of the frontend.
